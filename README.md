@@ -6,6 +6,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green)
 
+Live App: https://paysense-ai-izbyvukzsbmu29vlxbtnv9.streamlit.app/
+
 ## Overview
 PaySense AI predicts payment failures before they happen using XGBoost trained on Nigerian payment behavioral patterns across all major banks and payment methods.
 
