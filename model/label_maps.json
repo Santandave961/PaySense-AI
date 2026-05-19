@@ -1,0 +1,36 @@
+{
+  "bank": [
+    "GTBank",
+    "Access Bank",
+    "Zenith Bank",
+    "UBA",
+    "First Bank",
+    "Fidelity",
+    "Sterling",
+    "Wema",
+    "Polaris",
+    "Union Bank"
+  ],
+  "payment_method": [
+    "Card",
+    "Transfer",
+    "USSD",
+    "QR Code",
+    "Bank Debit"
+  ],
+  "network": [
+    "MTN",
+    "Airtel",
+    "Glo",
+    "9mobile"
+  ],
+  "category": [
+    "Airtime",
+    "Bills",
+    "Transfer",
+    "Shopping",
+    "Food",
+    "Transport",
+    "Savings"
+  ]
+}
